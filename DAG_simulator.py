@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
+
 """
 Created on Mon Nov  7 00:46:31 2016
 
 AUTHOR: Ralston R. Goes
-UNI:    rrg2148
-COURSE: ELEN E4904 Mobile Cloud: Project
+
 TITLE:  Task Scheduling Simulator for DAGs using Greedy Algorithm
 
 """
